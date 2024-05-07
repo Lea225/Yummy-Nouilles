@@ -1,34 +1,38 @@
-# Yummy Nouilles
+# Yummy Nouilles - Projet Openclassrooms
 
-Bienvenue sur le site de restauration Yummy Nouilles ! Ce site a été créé en utilisant HTML, CSS et JavaScript.
+Ce dépôt GitHub contient le projet "Intégrez une maquette Figma en HTML/CSS" réalisé dans le cadre du cours sur OpenClassrooms.
 
-## Pages
+## Description
 
-1. **Accueil**: La page d'accueil présente une introduction à Yummy Nouilles et met en avant les plats populaires.
-2. **Menu**: Sur la page du menu, vous trouverez une sélection alléchante de délicieuses nouilles et d'accompagnements.
-3. **Contacts**: La page Contacts vous permet de nous contacter facilement pour toute question ou réservation.
+Yummy Nouilles est un site web de restauration qui a été développé en utilisant HTML et CSS pour intégrer une maquette Figma.
 
-## Fonctionnalités
+Le projet comprend les fonctionnalités suivantes :
 
-- **Commande en ligne**: Vous pouvez passer une commande directement depuis notre site web.
-- **Liens vers les réseaux sociaux**: Suivez-nous sur les réseaux sociaux pour rester informé des dernières nouvelles et promotions.
+- Page d'accueil avec une présentation de Yummy Nouilles et des plats populaires.
+- Page Menu avec une sélection de délicieuses nouilles et d'accompagnements.
+- Page Contacts permettant aux utilisateurs de nous contacter facilement.
+- Possibilité de commander en ligne.
+- Liens vers les réseaux sociaux pour suivre les dernières actualités et promotions.
 
 ## Technologies Utilisées
 
-Ce site a été développé en utilisant les technologies suivantes :
-
 - HTML
 - CSS
-- JavaScript
 
-## Comment Contribuer
+## Structure du Projet
 
-Si vous souhaitez contribuer à l'amélioration de Yummy Nouilles, n'hésitez pas à cloner ce dépôt et à envoyer vos pull requests. Toute contribution est la bienvenue !
+- **index.html**: Page d'accueil du site.
+- **menu.html**: Page présentant le menu de Yummy Nouilles.
+- **contacts.html**: Page pour contacter l'équipe de Yummy Nouilles.
+- **styles.css**: Fichier de styles CSS pour la mise en page et le design du site.
 
 ## Auteur
 
-Ce projet a été réalisé par [votre nom ici].
+Ce projet a été réalisé par Léa CHIDAS.
 
-## Licence
+## Installation
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Pour utiliser ce projet localement, vous pouvez cloner ce dépôt sur votre machine en utilisant la commande suivante :
+
+```bash
+git clone https://github.com/Lea225/Yummy-Nouilles.git
