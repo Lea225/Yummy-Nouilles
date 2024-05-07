@@ -1,4 +1,4 @@
-![Acceuil Yummy Nouilles](design/Acceuil.jpg)
+![Acceuil Yummy Nouilles](design/Accueil.jpg)
 
 # Yummy Nouilles - Projet Openclassrooms
 
