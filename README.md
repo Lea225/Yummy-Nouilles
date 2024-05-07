@@ -1,3 +1,5 @@
+![Acceuil Yummy Nouilles](design/Acceuil.jpg)
+
 # Yummy Nouilles - Projet Openclassrooms
 
 Ce dépôt GitHub contient le projet "Intégrez une maquette Figma en HTML/CSS" réalisé dans le cadre du cours sur OpenClassrooms.
